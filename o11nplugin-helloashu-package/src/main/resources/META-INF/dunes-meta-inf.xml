@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>127.0.0.1:8230</comment>
+<entry key="pkg-description">HelloAshu package</entry>
+<entry key="pkg-name">com.ashu.hello.helloashu</entry>
+<entry key="used-plugins">HelloAshu#1.0.0</entry>
+<entry key="pkg-owner">My Company</entry>
+<entry key="pkg-id">109485860710948586071197094033$rootElement.hashCode()000000000000</entry>
+</properties>
